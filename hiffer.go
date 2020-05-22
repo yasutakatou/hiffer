@@ -422,7 +422,7 @@ func changePrompt(c *ishell.Context) {
 
 func convertCommand(command, status string) string {
 	if len(Convert) == 0 {
-		return ""
+		return command
 	}
 	for i := 0; i < len(Convert); i++ {
 		if strings.Index(command, Convert[i].Word) != -1 && Convert[i].PreAfter == status {
