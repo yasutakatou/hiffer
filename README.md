@@ -76,6 +76,9 @@ ex) ls<br>
 execute "ls", and add output to history's end. <br>
 
 note) This tool **imprement tab completer**, so you press tab, do file compeleter in current directory.<br>
+
+![demo1](https://github.com/yasutakatou/hiffer/blob/pic/completer.gif)
+
 note) if add to head character "!", not add historys.<br>
 <br>
 If another input , and api name the same, do following.<br>
