@@ -4,7 +4,11 @@ hiffer is **HISTORY + DIFF** tool, will be amazing and revolutional test automat
 
 ## demo
 
-(WIP)
+![demo1](https://github.com/yasutakatou/hiffer/blob/pic/hiffer.gif)
+
+support linux and windows.<br>
+
+![demo2](https://github.com/yasutakatou/hiffer/blob/pic/windows.png)
 
 ## solution
 
