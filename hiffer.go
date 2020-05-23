@@ -101,7 +101,7 @@ func init() {
 	useShell = "/bin/bash"
 	TEST = "all"
 	//prompt = "`PWD`"
-	prompt = ">>> "
+	prompt = ">>"
 	maxHistorys = 99
 	prevDir, _ = filepath.Abs(".")
 	filelists = listFile(".")
