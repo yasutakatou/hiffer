@@ -148,7 +148,6 @@ show all list historys<br>
 <br>
 ex) @show 1<br>
 show  history number 1 executed output<br>
-<br>
 
 #### @test
 
@@ -160,10 +159,10 @@ test  to 1,3,5,6,7,8,9,10<br>
 note: if set "all", test all. and if parameter is empty, use enviroment value TEST.<br>
 
 #### exit
-<br>
+
 exit and save config.<br>
 
-### config file (defaut .hiffer)
+## config file (defaut .hiffer)
 
 basic, config detail can see @env section. following option, CONVERT is another.<br>
 
